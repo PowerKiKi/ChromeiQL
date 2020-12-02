@@ -9,6 +9,7 @@
         ],
         "persistent": false
     },
+    "incognito": "split",
     "browser_action": {
         "default_title": "Launch GraphiQL",
         "default_icon": "public/logo.png"
